@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "st10083450_QueueTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7083",
+      "launchBrowser": false
+    }
+  }
+}
